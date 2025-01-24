@@ -1,7 +1,7 @@
-# Full Stack Developer
-#### Technical skills: JavaScript • React • SQL • Python • C# 
+# Data Scientist
+#### Technical skills: Python • React • SQL • JavaScript • C# 
 
-Full Stack Developer with a steep learning curve, contributed to developing a platform for speakers and competence management at Youandx, working across both backend and frontend. Skilled in building data models in MySQL databases, with a solid foundational understanding of coding. Prioritizes Unit and Playwright tests for reusable components. Thrives in an agile environment where knowledge is shared, and colleagues support each other's growth.
+I am proficient in handling and processing large datasets efficiently, with experience utilizing Python libraries such as NumPy and Pandas for data manipulation and analysis. I am skilled in training machine learning models to solve complex problems and evaluating their performance. During my master’s thesis, I designed and built neural networks using PyTorch, showcasing my ability to implement advanced deep learning solutions.
 
 ## Work experience
 **Full Stack developer @ Youandx (_October 2023 - present_)**
