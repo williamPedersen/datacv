@@ -1,7 +1,7 @@
-# data Scientist
+# Data Scientist
 #### Technical skills: Python • React • SQL • JavaScript • C# 
 
-I am proficient in handling and processing large datasets efficiently, with experience utilizing Python libraries such as NumPy and Pandas for data manipulation and analysis. I am skilled in training machine learning models to solve complex problems and evaluating their performance. During my master’s thesis, I designed and built neural networks using PyTorch, showcasing my ability to implement advanced deep learning solutions.
+I am proficient in handling and processing large datasets efficiently, with experience utilizing Python libraries such as NumPy and Pandas for data manipulation and analysis. I am skilled in training machine learning models to solve complex problems and evaluating their performance. During my master’s thesis, I designed and built neural networks using PyTorch, showcasing my ability to implement advanced deep learning solutions. Cool.
 
 ## Work experience
 **Full Stack developer @ Youandx (_October 2023 - present_)**
