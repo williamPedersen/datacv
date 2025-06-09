@@ -4,10 +4,10 @@
 I am proficient in handling and processing large datasets efficiently, with experience utilizing Python libraries such as NumPy and Pandas for data manipulation and analysis. I am skilled in training machine learning models to solve complex problems and evaluating their performance. During my master’s thesis, I designed and built neural networks using PyTorch, showcasing my ability to implement advanced deep learning solutions.
 
 ## Work experience
-**AI developer @ Sanos Group (_Marts 2023 - Now_)**
-- Implemented both backend and frontend solutions, including data modeling and SQL queries. Web development involved React, TypeScript, and Next.js.
-- Utilized Unit tests, Playwright, feature reviews, and code reviews to ensure bugs were prevented from being released.
-- Agile development practices were applied through daily stand-up meetings to keep everyone updated, with a Kanban board playing a key role in the development process.
+**AI developer @ Sanos Group (_Marts 2025 - Now_)**
+- Developed and maintained full-stack web applications using Next.js (TypeScript), integrated with PostgreSQL and Supabase, including implementation of Row-Level Security (RLS) for secure data handling.
+- Integrated AI-driven solutions into business processes to streamline operations, enhance decision-making, and improve overall efficiency.
+- Participated in software validation for medical compliance, ensuring adherence to regulatory standards and reliability for clinical use.
 
 **Full Stack developer @ Youandx (_October 2023 - December 2024_)**
 - Implemented both backend and frontend solutions, including data modeling and SQL queries. Web development involved React, TypeScript, and Next.js.
